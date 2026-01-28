@@ -14,3 +14,7 @@ Furthermore, the image-based nature of the framework allows retrospective analys
 Overall, DI-PASA presents an efficient digital alternative for posture-based ergonomic risk evaluation, particularly in complex tasks such as staircase ambulation with load handling.
 
 <img width="1664" height="2604" alt="Material Handling Research Paper Flowchart" src="https://github.com/user-attachments/assets/6a3b5433-3804-4a9b-a00a-bf0cd439ef9d" />
+
+<img width="1543" height="868" alt="NORMAL" src="https://github.com/user-attachments/assets/2fdcda3c-1943-4871-8aa7-dcce072864d6" />
+
+<img width="1543" height="868" alt="DI+PASA" src="https://github.com/user-attachments/assets/2a7ebdeb-6269-4544-b5a3-37f71c6a7c41" />
